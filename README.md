@@ -1,1 +1,1 @@
-# Quantium_sql_project
+ # This project is inspired by www.theforage.com .
