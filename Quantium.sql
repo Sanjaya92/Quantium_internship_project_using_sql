@@ -294,10 +294,3 @@ lylty_card_num in (
     round((100.00 * thisyear.transaction_this_year / previous.transaction_last_year), 2) as retention_rate
 	from previous, thisyear ;
 -- SO, WE CAN CONCLUDE THAT 73.91 % "lytly_card_num" ARE STILL COMING IN 2019 FROM 2018 .	
-
-
-
-select * from transaction_data 
-select * from purchase_behaviour
-
-
