@@ -136,7 +136,7 @@ update transaction_data
 set brand_name = case 
 				  when brand_name = 'Smith' then 'Smiths'
 				  when brand_name in ('Red', 'RRD') then 'Red_Rock_Deli'
-                  when brand_name in ('Grain', 'GrnWves') then 'Grainwaves'
+                                  when brand_name in ('Grain', 'GrnWves') then 'Grainwaves'
 				  when brand_name = 'Dorito' then 'Doritos'
 				  when brand_name = 'Infzns' then 'Infuzions'
 				  when brand_name = 'Snbts' then 'Sunbites'
